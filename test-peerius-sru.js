@@ -2,27 +2,27 @@ window.PeeriusWtcTestCallbacks =
     [{
         name:'homeSection2',
         position: 'homepage_Section2_1_ru',
-        recommendation: ["BP_862678", "BP_759057", "BP_159248", "BP_1000053", "BP_1000396", "BP_1000683", "BP_1001215", "BP_1002265", "BP_1002279", "BP_1005562"]
+        recommendation: ["BP_310462", "BP_414489", "BP_423045", "BP_529947", "BP_543317", "BP_543345", "BP_556771", "BP_556806", "BP_556428", "BP_414468"]
     },{
         name:'productDetails2',
         position: 'productDetails_SectionCarousel_2_ru',
-        recommendation: ["BP_862678", "BP_759057", "BP_159248", "BP_1000053", "BP_1000396", "BP_1000683", "BP_1001215", "BP_1002265", "BP_1002279", "BP_1005562"]
+        recommendation: ["BP_310462", "BP_414489", "BP_423045", "BP_529947", "BP_543317", "BP_543345", "BP_556771", "BP_556806", "BP_556428", "BP_414468"]
     },{
         name:'searchEmpty3',
         position: 'SearchEmpty_SectionMarketing_3_ru',
-        recommendation: ["BP_862678", "BP_759057", "BP_159248", "BP_1000053", "BP_1000396", "BP_1000683", "BP_1001215", "BP_1002265", "BP_1002279", "BP_1005562"]
+        recommendation: ["BP_310462", "BP_414489", "BP_423045", "BP_529947", "BP_543317", "BP_543345", "BP_556771", "BP_556806", "BP_556428", "BP_414468"]
     },{
         name:'emptyCartPage4',
         position: 'emptyCartPage_Section1_4_ru',
-        recommendation: ["BP_862678", "BP_759057", "BP_159248", "BP_1000053", "BP_1000396", "BP_1000683", "BP_1001215", "BP_1002265", "BP_1002279", "BP_1005562"]
+        recommendation: ["BP_310462", "BP_414489", "BP_423045", "BP_529947", "BP_543317", "BP_543345", "BP_556771", "BP_556806", "BP_556428", "BP_414468"]
     },{
         name:'notFoundMarketing',
         position: 'notFound_SectionMarketing_5_ru',
-        recommendation: ["BP_862678", "BP_759057", "BP_159248", "BP_1000053", "BP_1000396", "BP_1000683", "BP_1001215", "BP_1002265", "BP_1002279", "BP_1005562"]
+        recommendation: ["BP_310462", "BP_414489", "BP_423045", "BP_529947", "BP_543317", "BP_543345", "BP_556771", "BP_556806", "BP_556428", "BP_414468"]
     },{
         name:'orderConfirmation1',
         position: 'orderConfirmationPage_Section1_6_ru',
-        recommendation: ["BP_862678", "BP_759057", "BP_159248", "BP_1000053", "BP_1000396", "BP_1000683", "BP_1001215", "BP_1002265", "BP_1002279", "BP_1005562"]
+        recommendation: ["BP_310462", "BP_414489", "BP_423045", "BP_529947", "BP_543317", "BP_543345", "BP_556771", "BP_556806", "BP_556428", "BP_414468"]
     }];
 
 (function () {
