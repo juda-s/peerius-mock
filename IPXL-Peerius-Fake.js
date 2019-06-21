@@ -4,11 +4,11 @@ window.PeeriusIpxlTestCallbacks =
         position: 'homepage_PopUp_banner2',
         recommendation: ["10023", "12202"]
     },{
-        name:'catPageCarousel1',
+        name:'catPageCarousel',
         position: 'CategoryLandingPage_Section3_PromotedProducts',
         recommendation: ["10023", "12202", "15059", "17830", "22160", "26221", "32337", "34824"]
     },{
-        name:'catPageCarousel2',
+        name:'cartPageCarousel',
         position: 'CartPage_ProductCarrousel_1',
         recommendation: ["10023", "12202", "15059", "17830", "22160", "26221", "32337", "34824"]
     }];
